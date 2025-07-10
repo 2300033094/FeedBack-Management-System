@@ -1,24 +1,24 @@
-FMS Frontend
-This is the Frontend of the Facility Management System (FMS), built using React, Vite, and Tailwind CSS. It is designed for fast performance, scalability, and modern UI development.
+# FMS Frontend
 
-🛠️ Tech Stack
-React – Component-based UI library
+This is the Frontend of the Facility Management System (FMS), built using **React**, **Vite**, and **Tailwind CSS**.  
+It is designed for fast performance, scalability, and modern UI development.
 
-Vite – Lightning-fast frontend tooling
+## 🛠️ Tech Stack
 
-Tailwind CSS – Utility-first CSS framework
+- **React** – Component-based UI library  
+- **Vite** – Lightning-fast frontend tooling  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **React Router DOM** – For SPA navigation  
+- **ESLint** – Linting for code quality  
+- **PostCSS** – CSS transformations  
 
-React Router DOM – For SPA navigation
+## 🔗 Live Demo
 
-ESLint – Linting for code quality
+🌐https://feedbackmanagement-system.netlify.app/
 
-PostCSS – CSS transformations
+## 📦 Installation
 
-📦 Installation
-bash
-Copy
-Edit
-
+```bash
 # Install dependencies
 npm install
 🚧 Available Scripts
@@ -51,7 +51,5 @@ FMS/
 │   ├── vite.config.ts
 │   └── src/
 │       └── [React components, pages, routes]
-
-
 📝 License
 This project is licensed under the MIT License.
