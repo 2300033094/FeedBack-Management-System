@@ -18,9 +18,6 @@ PostCSS – CSS transformations
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/yourusername/fms-frontend.git
-cd fms-frontend/FMS/client
 
 # Install dependencies
 npm install
